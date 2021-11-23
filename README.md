@@ -29,3 +29,6 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+"add" means to move the modified files from the working directory to the staging area
+"commit" means to commit the files in the staging area to the repository
+"push" means to publish the local commits to the GitHub
